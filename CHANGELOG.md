@@ -4,6 +4,10 @@ Changelog
 [Unreleased]
 ------------
 
+### Fixed
+
+ - Fix css class for frontend modules
+
 [3.2.0] (2019-02-12)
 --------------------
 
@@ -91,7 +95,7 @@ Changelog
  - Prevent error than no dca array is loaded (See [contao-leaflet-maps/issues/54](https://github.com/netzmacht/contao-leaflet-maps/issues/54)
  - Added changelog (#9)
 
-[Unreleased]: https://github.com/netzmacht/contao-toolkit/compare/3.2.0...dev-master
+[Unreleased]: https://github.com/netzmacht/contao-toolkit/compare/3.2.0...hotfix/3.2.1
 [3.2.0]: https://github.com/netzmacht/contao-toolkit/compare/3.1.1...3.2.0
 [3.1.1]: https://github.com/netzmacht/contao-toolkit/compare/3.1.0...3.1.1
 [3.1.0]: https://github.com/netzmacht/contao-toolkit/compare/3.0.7...3.1.0
