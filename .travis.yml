@@ -25,7 +25,6 @@ matrix:
     - php: "nightly"
     - php: "7.4snapshot"
 
-
 before_script:
   - echo "memory_limit=-1" >> ~/.phpenv/versions/$(phpenv version-name)/etc/conf.d/travis.ini
   - travis_retry composer self-update && composer --version
